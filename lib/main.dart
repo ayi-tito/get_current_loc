@@ -686,7 +686,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   @override
-  void initState() {g
+  void initState() {
     getDeviceLocation();
     var _nameMarker = [
       'Mosque',

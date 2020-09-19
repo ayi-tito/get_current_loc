@@ -1,0 +1,1234 @@
+{
+    "aerialway": {
+        "name": "Aerialway",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "airfield": {
+        "name": "Airfield",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "airport": {
+        "name": "Airport",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "alcohol-shop": {
+        "name": "Alcohol Shop",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "american-football": {
+        "name": "American Football",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "amusement-park": {
+        "name": "Amusement Park",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "aquarium": {
+        "name": "Aquarium",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "art-gallery": {
+        "name": "Art Gallery",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "attraction": {
+        "name": "Attraction",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bakery": {
+        "name": "Bakery",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bank": {
+        "name": "Bank",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bar": {
+        "name": "Bar",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "barrier": {
+        "name": "Barrier",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "baseball": {
+        "name": "Baseball",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "basketball": {
+        "name": "Basketball",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bbq": {
+        "name": "Bbq",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "beach": {
+        "name": "Beach",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "beer": {
+        "name": "Beer",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bicycle": {
+        "name": "Bicycle",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bicycle-share": {
+        "name": "Bicycle Share",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "blood-bank": {
+        "name": "Blood Bank",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bowling-alley": {
+        "name": "Bowling Alley",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bridge": {
+        "name": "Bridge",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "building": {
+        "name": "Building",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "building-alt1": {
+        "name": "Building Alt 1",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "bus": {
+        "name": "Bus",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "cafe": {
+        "name": "Cafe",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "campsite": {
+        "name": "Campsite",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "car": {
+        "name": "Car",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "car-rental": {
+        "name": "Car Rental",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "car-repair": {
+        "name": "Car Repair",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "casino": {
+        "name": "Casino",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "castle": {
+        "name": "Castle",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "cemetery": {
+        "name": "Cemetery",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "charging-station": {
+        "name": "Charging Station",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "cinema": {
+        "name": "Cinema",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "circle": {
+        "name": "Circle",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "circle-stroked": {
+        "name": "Circle Stroked",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "city": {
+        "name": "City",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "clothing-store": {
+        "name": "Clothing Store",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "college": {
+        "name": "College",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "commercial": {
+        "name": "Commercial",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "communications-tower": {
+        "name": "Communications Tower",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "confectionery": {
+        "name": "Confectionery",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "convenience": {
+        "name": "Convenience",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "cricket": {
+        "name": "Cricket",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "cross": {
+        "name": "Cross",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "dam": {
+        "name": "Dam",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "danger": {
+        "name": "Danger",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "defibrillator": {
+        "name": "Defibrillator",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "dentist": {
+        "name": "Dentist",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "doctor": {
+        "name": "Doctor",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "dog-park": {
+        "name": "Dog Park",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "drinking-water": {
+        "name": "Drinking Water",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "embassy": {
+        "name": "Embassy",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "emergency-phone": {
+        "name": "Emergency Phone",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "entrance": {
+        "name": "Entrance",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "entrance-alt1": {
+        "name": "Entrance Alt 1",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "farm": {
+        "name": "Farm",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "fast-food": {
+        "name": "Fast Food",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "fence": {
+        "name": "Fence",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "ferry": {
+        "name": "Ferry",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "fire-station": {
+        "name": "Fire Station",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "fitness-centre": {
+        "name": "Fitness Centre",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "florist": {
+        "name": "Florist",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "fuel": {
+        "name": "Fuel",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "furniture": {
+        "name": "Furniture",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "gaming": {
+        "name": "Gaming",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "garden": {
+        "name": "Garden",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "garden-centre": {
+        "name": "Garden Centre",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "gift": {
+        "name": "Gift",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "globe": {
+        "name": "Globe",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "golf": {
+        "name": "Golf",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "grocery": {
+        "name": "Grocery",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "hairdresser": {
+        "name": "Hairdresser",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "harbor": {
+        "name": "Harbor",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "hardware": {
+        "name": "Hardware",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "heart": {
+        "name": "Heart",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "heliport": {
+        "name": "Heliport",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "home": {
+        "name": "Home",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "horse-riding": {
+        "name": "Horse Riding",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "hospital": {
+        "name": "Hospital",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "ice-cream": {
+        "name": "Ice Cream",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "industry": {
+        "name": "Industry",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "information": {
+        "name": "Information",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "jewelry-store": {
+        "name": "Jewelry Store",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "karaoke": {
+        "name": "Karaoke",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "landmark": {
+        "name": "Landmark",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "landuse": {
+        "name": "Landuse",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "laundry": {
+        "name": "Laundry",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "library": {
+        "name": "Library",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "lighthouse": {
+        "name": "Lighthouse",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "lodging": {
+        "name": "Lodging",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "logging": {
+        "name": "Logging",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "marker": {
+        "name": "Marker",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "marker-stroked": {
+        "name": "Marker Stroked",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "mobile-phone": {
+        "name": "Mobile Phone",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "monument": {
+        "name": "Monument",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "mountain": {
+        "name": "Mountain",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "museum": {
+        "name": "Museum",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "music": {
+        "name": "Music",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "natural": {
+        "name": "Natural",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "optician": {
+        "name": "Optician",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "paint": {
+        "name": "Paint",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "park": {
+        "name": "Park",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "park-alt1": {
+        "name": "Park Alt 1",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "parking": {
+        "name": "Parking",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "parking-garage": {
+        "name": "Parking Garage",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "pharmacy": {
+        "name": "Pharmacy",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "picnic-site": {
+        "name": "Picnic Site",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "pitch": {
+        "name": "Pitch",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "place-of-worship": {
+        "name": "Place of Worship",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "playground": {
+        "name": "Playground",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "police": {
+        "name": "Police",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "post": {
+        "name": "Post",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "prison": {
+        "name": "Prison",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "rail": {
+        "name": "Rail",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "rail-light": {
+        "name": "Rail Light",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "rail-metro": {
+        "name": "Rail Metro",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "ranger-station": {
+        "name": "Ranger Station",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "recycling": {
+        "name": "Recycling",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "religious-buddhist": {
+        "name": "Religious Buddhist",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "religious-christian": {
+        "name": "Religious Christian",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "religious-jewish": {
+        "name": "Religious Jewish",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "religious-muslim": {
+        "name": "Religious Muslim",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "residential-community": {
+        "name": "Residential Community",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "restaurant": {
+        "name": "Restaurant",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "restaurant-noodle": {
+        "name": "Restaurant Noodle",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "restaurant-pizza": {
+        "name": "Restaurant Pizza",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "restaurant-seafood": {
+        "name": "Restaurant Seafood",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "roadblock": {
+        "name": "Roadblock",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "rocket": {
+        "name": "Rocket",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "school": {
+        "name": "School",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "scooter": {
+        "name": "Scooter",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "shelter": {
+        "name": "Shelter",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "shoe": {
+        "name": "Shoe",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "shop": {
+        "name": "Shop",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "skateboard": {
+        "name": "Skateboard",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "skiing": {
+        "name": "Skiing",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "slaughterhouse": {
+        "name": "Slaughterhouse",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "slipway": {
+        "name": "Slipway",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "snowmobile": {
+        "name": "Snowmobile",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "soccer": {
+        "name": "Soccer",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "square": {
+        "name": "Square",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "square-stroked": {
+        "name": "Square Stroked",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "stadium": {
+        "name": "Stadium",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "star": {
+        "name": "Star",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "star-stroked": {
+        "name": "Star Stroked",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "suitcase": {
+        "name": "Suitcase",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "sushi": {
+        "name": "Sushi",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "swimming": {
+        "name": "Swimming",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "table-tennis": {
+        "name": "Table Tennis",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "teahouse": {
+        "name": "Teahouse",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "telephone": {
+        "name": "Telephone",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "tennis": {
+        "name": "Tennis",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "theatre": {
+        "name": "Theatre",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "toilet": {
+        "name": "Toilet",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "town": {
+        "name": "Town",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "town-hall": {
+        "name": "Town Hall",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "triangle": {
+        "name": "Triangle",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "triangle-stroked": {
+        "name": "Triangle Stroked",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "veterinary": {
+        "name": "Veterinary",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "viewpoint": {
+        "name": "Viewpoint",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "village": {
+        "name": "Village",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "volcano": {
+        "name": "Volcano",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "volleyball": {
+        "name": "Volleyball",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "warehouse": {
+        "name": "Warehouse",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "waste-basket": {
+        "name": "Waste Basket",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "watch": {
+        "name": "Watch",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "water": {
+        "name": "Water",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "waterfall": {
+        "name": "Waterfall",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "watermill": {
+        "name": "Watermill",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "wetland": {
+        "name": "Wetland",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "wheelchair": {
+        "name": "Wheelchair",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "windmill": {
+        "name": "Windmill",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    },
+    "zoo": {
+        "name": "Zoo",
+        "radius": 18,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    }
+}
